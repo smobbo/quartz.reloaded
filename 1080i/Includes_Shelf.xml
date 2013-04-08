@@ -301,7 +301,7 @@
         <visible>Control.HasFocus(315)</visible>
 		<include>VisibleFadeEffect</include>
 		<include>ShelfBottomLabel</include>
-        <label>[COLOR=Grey2]$INFO[Container(315).ListItem.Label2,, - ]$INFO[Container(315).ListItem.Property(SeasonEpisode),,  -  ][/COLOR]$INFO[Container(315).ListItem.Label]</label>
+        <label>[COLOR=Grey2]$INFO[Container(315).ListItem.Label2,,  -  ]$INFO[Container(315).ListItem.Property(SeasonEpisode),,  -  ][/COLOR]$INFO[Container(315).ListItem.Label]</label>
       </control>
       <control type="panel" id="315" description="TOP Shortcuts">
         <visible allowhiddenfocus="true">Control.HasFocus(315)</visible>
